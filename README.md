@@ -43,12 +43,10 @@ The objective of this project is to analyze loan data and generate actionable in
 - Summarized key findings  
 - Provided business insights for decision-making  
 
----
 
 ## 🔄 Project Workflow
 Data Cleaning → Data Analysis → Data Visualization → Insights & Reporting  
 
----
 
 ## 🛠️ How to Use This Project
 
@@ -72,7 +70,6 @@ cd financial-loan-analysis
 - Load `.pbix` file  
 - Explore interactive visualizations  
 
----
 
 ## 📈 Key Insights
 - A large portion of loans are classified as **good loans**, contributing stable revenue  
@@ -80,7 +77,6 @@ cd financial-loan-analysis
 - Higher interest rates are associated with higher-risk customers  
 - Loan performance varies across customer segments and time periods  
 
----
 
 ## 💡 Solution & Recommendations
 - Improve credit risk assessment by strengthening screening criteria  
