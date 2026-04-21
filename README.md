@@ -47,41 +47,41 @@ The objective of this project is to analyze loan data and generate actionable in
 ## 🔄 Project Workflow
 Data Cleaning → Data Analysis → Data Visualization → Insights & Reporting  
 
-
+---
 ## 🛠️ How to Use This Project
 
-### 1. Clone the repository
+## 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/financial-loan-analysis.git
+git clone https://github.com/thanhtruc689904/financial-loan-analysis.git
 cd financial-loan-analysis
 ## 🛠️ How to Use This Project
-
-### 2. Run Python Notebook
+---
+## 2. Run Python Notebook
 - Data cleaning  
 - Data preprocessing  
 - Feature engineering  
-
-### 3. Load Data into MySQL
+---
+## 3. Load Data into MySQL
 - Create database  
 - Import cleaned dataset  
 - Run SQL queries for KPI analysis  
-
-### 4. Open Power BI Dashboard
+---
+## 4. Open Power BI Dashboard
 - Load `.pbix` file  
 - Explore interactive visualizations  
 
-
+---
 ## 📈 Key Insights
 - A large portion of loans are classified as **good loans**, contributing stable revenue  
 - Bad loans (defaults) negatively impact overall portfolio performance  
 - Higher interest rates are associated with higher-risk customers  
 - Loan performance varies across customer segments and time periods  
 
-
+---
 ## 💡 Solution & Recommendations
 - Improve credit risk assessment by strengthening screening criteria  
 - Optimize interest rate strategy based on customer risk levels  
 - Monitor high-risk customers with high DTI and poor repayment history  
 - Enhance customer segmentation to personalize loan offers  
 - Implement early risk detection systems to reduce defaults  
-
+---
