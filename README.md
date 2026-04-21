@@ -52,7 +52,8 @@ Data Cleaning → Data Analysis → Data Visualization → Insights & Reporting
 ## 1. Clone the repository
 ```bash
 git clone https://github.com/thanhtruc689904/financial-loan-analysis.git
-cd financial-loan-analysis ```bash
+cd financial-loan-analysis
+ ```
 ## 🛠️ How to Use This Project
 
 ## 2. Run Python Notebook
