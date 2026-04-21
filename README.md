@@ -22,12 +22,12 @@ This project represents a complete, end-to-end data analytics workflow, simulati
 
 The objective of this project is to analyze loan performance and extract actionable insights related to portfolio quality, customer behavior, and financial risk.
 
-### 🔹 Data Preparation & EDA (Python)
+## 🔹 Data Preparation & EDA (Python)
 - Cleaned and transformed loan dataset  
 - Handled missing values and inconsistent data  
 - Created time-based features for analysis  
 
-### 🔹 Data Analysis (SQL)
+## 🔹 Data Analysis (SQL)
 - Calculated key KPIs:
   - Total Loan Applications  
   - Total Funded Amount  
@@ -37,12 +37,12 @@ The objective of this project is to analyze loan performance and extract actiona
 - Segmented loans into **Good vs Bad loans**  
 - Analyzed trends over time  
 
-### 🔹 Data Visualization (Power BI)
+## 🔹 Data Visualization (Power BI)
 - Built interactive dashboard  
 - Visualized loan trends, repayment performance, and customer segments  
 - Highlighted portfolio quality and risk distribution  
 
-### 🔹 Reporting & Insights
+## 🔹 Reporting & Insights
 - Summarized key findings  
 - Provided business insights for loan risk management  
 
